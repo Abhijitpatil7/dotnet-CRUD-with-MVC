@@ -1,0 +1,15 @@
+D:\dotnet\Day2\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\dotnet\Day2\DAL\bin\Debug\net7.0\DAL.dll
+D:\dotnet\Day2\DAL\bin\Debug\net7.0\DAL.pdb
+D:\dotnet\Day2\DAL\bin\Debug\net7.0\BOL.dll
+D:\dotnet\Day2\DAL\bin\Debug\net7.0\BOL.pdb
+D:\dotnet\Day2\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\dotnet\Day2\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Day2\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\dotnet\Day2\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\dotnet\Day2\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\dotnet\Day2\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\dotnet\Day2\DAL\obj\Debug\net7.0\DAL.dll
+D:\dotnet\Day2\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\dotnet\Day2\DAL\obj\Debug\net7.0\DAL.pdb
+D:\dotnet\Day2\DAL\obj\Debug\net7.0\ref\DAL.dll
